@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+a:hover{
+    color: aliceblue;
+}
+
+.offcan{
+	position: absolute;
+	left: 0.5rem;
+	top: 3rem;
+}
+/*.noteCard{
+    margin: 1rem;
+}*/
